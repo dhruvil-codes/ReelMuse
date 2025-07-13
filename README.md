@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -34,3 +35,7 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+=======
+# ReelMuse
+ReelMuse 🎬 – Your AI-Powered Creative Assistant for Reels &amp; Shorts ✨ Generate viral script hooks, music suggestions, and b-roll ideas in seconds. Built with Next.js, Tailwind CSS, and OpenAI.
+>>>>>>> 7e6e0ce1b712ea0186997e17bd8b51e1a670affc
